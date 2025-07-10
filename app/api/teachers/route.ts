@@ -44,6 +44,3 @@ export async function POST(req: Request) {
   return NextResponse.json(newTeacher, { status: 201 });
 }
 
-// Temporary in-memory data store (can be replaced with DB later)
-// Temporary in-memory data store (can be replaced with DB later)
-// Temporary in-memory data store (can be replaced with DB later)
